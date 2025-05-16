@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "zitcore.movil",
+    "sha256_cert_fingerprints": ["E9:D3:A7:25:34:1A:B3:D7:8E:04:29:6E:FA:F0:BD:9F:A4:1F:DE:02:6E:E1:2A:32:38:28:8E:59:C8:33:97:0A"]
+  }
+}]
